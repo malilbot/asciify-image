@@ -7,12 +7,12 @@
     "asciify": "./cli.js"
   },
   "dependencies": {
-    "couleurs": "^5.0.0",
-    "jimp": "^0.10.3",
+    "couleurs": "^6.0.11",
+    "jimp": "^0.16.1",
     "minimist": "^1.2.5",
     "request": "^2.88.0",
     "terminal-char-width": "^1.0.8",
-    "window-size": "^0.1.2"
+    "window-size": "^1.1.1"
   },
   "devDependencies": {},
   "scripts": {
